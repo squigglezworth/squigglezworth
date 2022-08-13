@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/20311086/184510868-837219d2-f4a3-4c3e-8d4a-2cd5707c0987.png)
 
 <!--
 **squigglezworth/squigglezworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
