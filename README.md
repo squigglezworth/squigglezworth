@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/20311086/184510868-837219d2-f4a3-4c3e-8d4a-2cd5707c0987.png" />
 <div align=center>
-<p><sup><i>Hello, world. I'm squigz, also known as Sen. I build things for the web and for the terminal.</i></sup></p>
+<p><sup><i>Hello, world. I'm <b>squigz</b>, also known as <b>Sen</b>. I build things for the <b>web</b> and for the <b>terminal</b>.</i></sup></p>
 <a href="https://discord.gg/5jAYJyU6YF"><img src="https://img.shields.io/discord/484805623209525258?color=7289da&label=Find%20me%20on%20Discord&logo=discord&logoColor=7289da&style=for-the-badge" /></a>
 <br>
 <img src="https://user-images.githubusercontent.com/20311086/184515273-30504c74-23f3-457e-a0a0-03005bf1becc.svg" />
