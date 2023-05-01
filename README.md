@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/20311086/184515331-b060bde9-e3fa-43dd-981e-2a163a6b8cb7.svg" />
 <img src="https://user-images.githubusercontent.com/20311086/184558023-8f8d768e-f478-4b93-8caa-041ef522a328.svg" />
 <br>
-<a href="https://ko-fi.com/F1F5CJDW4"><img src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
+  
 <details>
 <summary color=gray>Useless stats</summary>
 <img width=600 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=squigglezworth&theme=tokyonight" />
